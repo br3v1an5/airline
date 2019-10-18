@@ -1,2 +1,23 @@
-# airline
-This is full source code.Only use for educational purpose. It is airline ticket reservation system in php language. It has Two side (1st one is Customer and other is Admin) Features: 1.Signup As customer 2.Login 3.Book Ticket 4.Print Ticket 5.Check PNR  Admin: 1.List Flights 2.Arrange Flights 3.Add Flights 4.Schedule Flights 5.Check Booked Tickets  For Admin login Username: Admin password: Admin  For Customer Login Username: SANCHIT password: 123456  Thanks Reagrds
+# Airline Ticket Reservation System
+Online airline ticketing saves time and money for the customer as well as the airline company thereby making air travel more customer-centric. 
+This project is an attempt to simulate the basic concepts of an airline reservation system.
+
+Our airline ticket reservation system has the following features:- 
+
+*Customers can:*
+* Create an account
+* Search for available flights for a particular city-pair
+* Book tickets in the class of their choice
+* Cancel booked tickets
+* View booked tickets history 
+
+*Administrators can:*
+* Add/Modify flight schedules
+* Viewing the booked ticket statistics
+
+This system also incorporates a frequent flier miles points system for loyal customers which will provide additional benefits to them.
+
+
+This project was implemented using HTML & CSS for the front-end and PHP for the back-end. The database was created and updated using MySQL.
+
+
