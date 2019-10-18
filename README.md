@@ -1,0 +1,2 @@
+# airline
+This is full source code.Only use for educational purpose. It is airline ticket reservation system in php language. It has Two side (1st one is Customer and other is Admin) Features: 1.Signup As customer 2.Login 3.Book Ticket 4.Print Ticket 5.Check PNR  Admin: 1.List Flights 2.Arrange Flights 3.Add Flights 4.Schedule Flights 5.Check Booked Tickets  For Admin login Username: Admin password: Admin  For Customer Login Username: SANCHIT password: 123456  Thanks Reagrds
